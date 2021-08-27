@@ -50,7 +50,7 @@ body{
 }
 
 #showcase{
-    background-image: url('../images/gurren3.jpeg');
+    background-image: url('https://erikbenedict.github.io/images/gurren3.jpeg');
     background-position: center center;
     min-height: 300px;
     position: relative;
